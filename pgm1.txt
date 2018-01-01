@@ -1,0 +1,3 @@
+H
+F
+Hi This is my first file written in UBUNTU 
